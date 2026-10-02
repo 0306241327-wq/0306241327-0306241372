@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 xin chao tran ngoc thanh sv1
+=======
+xin chao nguyen anh khoa sv2
+>>>>>>> 0306241372-nguyen-anh-khoa-sv2
